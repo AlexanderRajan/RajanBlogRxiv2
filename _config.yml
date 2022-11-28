@@ -97,10 +97,10 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
   location         : # "Somewhere"
-  email            : "alexander.s.rajan@gmail.com"
+  email            : #"alexander.s.rajan@gmail.com"
   linkedin         : "alexanderrajan"
   twitter          : "_AlexRajan"
-  github           : # "AlexanderRajan"
+  github           : "AlexanderRajan"
   
 
 # Site Footer
@@ -112,7 +112,7 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_AlexRajan"
-  github           : # "AlexanderRajan"
+  github           : "AlexanderRajan"
 
 
 # Reading Files
