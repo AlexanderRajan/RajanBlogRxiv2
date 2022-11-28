@@ -6,8 +6,8 @@ main:
     url: /documents/
   - title: "About"
     url: /
-  - title: "CV/Resume"
-    url: "assets/docs/Rajan Resume + Pubs.pdf"
+ # - title: "CV/Resume"
+ #   url: "assets/docs/Rajan Resume + Pubs.pdf"
   
   
   # - title: "Sample Collections"
